@@ -1,7 +1,10 @@
-# Project Euler Solutions
+# Online Challenge Answer Repo
 ---
-My personal solutions to Project Euler questions, in Python notebooks. Notebooks are used in order to display both the mathematical versions in markdown and the code in Python
+A repository will all my answers to a variety of hackathons, competitions, or programming/math questions. 
 
-### Statistics
-* Questions answered: 1/618
-* Highest difficulty: 5%
+Contains:
+* Project Euler
+* Leetcode
+* Cracking the Coding Interview
+* Kaggle 
+* NBA Hackathon
